@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+img{
+    text-align: center;
+    width: 400px;
+
+}
+#thirdDiv{
+margin-left: auto;
+margin-right: auto;
+    height: 600px;
+    width: 500px;
+    background-color: blueviolet;
+    padding: 50px;
+    border-style: dashed;
+}
+#spanId{
+    margin:300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(fondo2.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif; 
+}
